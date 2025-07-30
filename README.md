@@ -2,6 +2,7 @@
 
 Welcome to **Umeed - Inspiring India**!  
 This project is dedicated to fostering hope, inspiration, and positive change across India. Whether you're an educator, community leader, volunteer, student, or changemaker, Umeed provides a platform and resources to create impact and share stories of transformation.
+It is a student project under IBM SkillsBuild + CSRBOX
 
 ---
 
